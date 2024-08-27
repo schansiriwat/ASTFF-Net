@@ -9,7 +9,7 @@ learning various patterns from sequence features.
 Conv1D, followed by the softmax layer. The advantage of ASTFF-Net is that the proposed network can prevent overfitting problems due to the attachment of the global average pooling
 and dropout layers. These layers decreased the number of network parameters and dropped the number of connections between layers, respectively.
 
-File Detial:
+File Detail:
 1. ResNet50Network.ipynb: for train the dataset with transfer learning before extracted spatial feature by using the ResNet50.
 2. extractedSpatialFeatures.ipynb: for extracted spatial features by using trained ResNet50.
 3. lstmNetwork.ipynb: for train the spatial feature.
