@@ -15,3 +15,7 @@ File Detail:
 3. lstmNetwork.ipynb: for train the spatial feature.
 4. extractedTemporalFeatures.ipynb: for extracted temporal features by using trained LSTM.
 5. ASTFF-Net.ipynb: for combine spatial and temporal and train them to classify the food images dataset.
+
+Reference:
+Phiphitphatphaisit, S., & Surinta, O. (2024). Multi-layer adaptive spatial-temporal feature fusion network for efficient food image recognition. Expert Systems with Applications, 255, 124834.
+https://doi.org/10.1016/j.eswa.2024.124834
